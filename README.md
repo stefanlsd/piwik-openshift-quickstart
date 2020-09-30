@@ -1,7 +1,7 @@
 
 Piwik on OpenShift  
 =========================  
-Piwik is a downloadable, open source (GPL licensed) real time web analytics software program. It provides you with detailed reports on your website visitors: the search engines and keywords they used, the language they speak, your popular pages, and so much more.  
+Piwik is a downloadable, Open Source (GPL licensed) real time web analytics software program. It provides you with detailed reports on your website visitors: the search engines and keywords they used, the language they speak, your popular pages, and so much more.  
 
 Piwik aims to be an open source alternative to Google Analytics, and is already used on more than 150,000 websites.   
 
